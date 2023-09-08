@@ -7,7 +7,7 @@ This is just a sample that works but I can't be sure of it.
 Therefore, if you are going to use it in your projects, test it first and don't blindly use it.
 
 ## Installation
-Copy the contents of the repository to your project. 
+Copy the contents of the repository to your project or use link for install from Package manager
 Optionally, you can customize the Assembly defenition. But it's not necessary at all.
 
 ## Start
